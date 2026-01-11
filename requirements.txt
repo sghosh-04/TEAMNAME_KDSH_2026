@@ -1,0 +1,7 @@
+torch
+transformers
+sentence-transformers
+pathway
+pandas
+numpy
+scikit-learn
